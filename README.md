@@ -1,5 +1,30 @@
 # SLF Bergen
 
+## Styret
+
+Styret i SLF Bergen og Omegn har i perioden 2015 - 2016 6 medlemmer:
+
+- Anja Otterstrøm – 971 51 444
+- Arild Jensen – 907 49 963
+- Bjørn Mowinckel-Nilsen
+- Bård Aase – 947 86 033
+- Kyrre Sørensen – 986 42 467
+- Peter Andersen – 920 91 943
+
+Utover det er det 3 varamedlemmer:
+- Alf Helge Greaker
+- Marthe Hammer
+- Randi Sørsdal
+
+### Leder
+Bård Aase (947 86 033) 
+
+### Pressekontakt
+Bård Aase (947 86 033) 
+
+### Økonomiansvarlig
+Arild Jensen
+
 ## Lagets vedtekter
 
 Vedtekter for SLF Bergen og omegn sist endret 22.02.2012
