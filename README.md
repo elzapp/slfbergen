@@ -103,7 +103,7 @@ Standard saker som stort sett alltid behandles på styremøtet er:
 - Innkommet post
 - Ymse.
 
-#### Årsmøter
+### Årsmøter
 SLF Bergen og Omegn holder typisk årsmøtene på sensommeren eller tidlig høst. I år med Landsmøte 
 i god tid før landsmøtet, slik at referat, årsmelding og arbeidsplan kan sendes til hovedstyret i tide.
 
