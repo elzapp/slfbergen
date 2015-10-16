@@ -1,6 +1,6 @@
 # SLF Bergen
 
-## Styret
+## Styret 2015 - 2016
 
 Styret i SLF Bergen og Omegn har i perioden 2015 - 2016 6 medlemmer:
 
