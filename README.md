@@ -17,10 +17,10 @@ Utover det er det 3 varamedlemmer:
 - Randi Sørsdal
 
 ### Leder
-Bård Aase (947 86 033) 
+Bård Aase (947 86 033)
 
 ### Pressekontakt
-Bård Aase (947 86 033) 
+Bård Aase (947 86 033) elzapp@gmail.com 
 
 ### Økonomiansvarlig
 Arild Jensen
