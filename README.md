@@ -70,6 +70,8 @@ familie, jobb og fritidsinteresser. Det kan derfor bli svært tidkrevende å avt
 møtetidspunkt. 
 Doodle gjør dette mye enklere og mer smertefritt.
 
+http://www.doodle.com
+
 ### Google Drive
 Dokumenter som sakspapirer og ressurser ligger på Google Drive. Ikke alle har fått 
 tilgang til dem enda, men alt som har gått ut av informasjon mellom årsmøtet og nå 
@@ -78,16 +80,22 @@ har også gått på epost.
 ### Facebook
 En del informasjon til medlemmer og samarbeidspartnere går ut via Facebook. Det 
 inkluderer invitasjon til mer spontane sykkelturer enn de som arrangeres to ganger 
-i året. For eksempel hadde vi en sykkeltur til Wernersholm forrige onsdag, og denne 
-onsdagen var planen å sykle til Gravdal. Desverre har jeg måttet avlyse denne på 
-grunn av sykdom.
+i året.
+
+Våre ressurser på Facebook:
+- Gruppen «På Sykkel i Bergen»: https://www.facebook.com/groups/sykkelibergen/
+- Facebooksiden «Syklistenes Landsforening - Bergen og Omegn»: https://www.facebook.com/bergensykkel
 
 ### Twitter
 Vi bruker også twitter til samme formål som Facebook. Her ble også de siste ukenes 
 sykkelturer annonsert.
 
+- SLF Bergen og Omegn: https://twitter.com/SLF_Bergen
+
 ### Hjemmesidene
 Vi har hjemmesider på syklistene.no, og disse brukes til innkalling til årsmøte, og 
 de store turene våre. Samt for å orientere om styrets sammensetning og offentlige 
 dokumenter. Desverre er de lite egnet for å innkalle folk til turer på kort varsel.
+
+- Syklistenes Landsforening Bergen og Omegn: http://www.syklistene.no/lokallag/bergen/
 
