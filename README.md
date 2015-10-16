@@ -80,6 +80,33 @@ Vedtekter for SLF Bergen og omegn sist endret 22.02.2012
 
 15. Ved oppløsning av lokallaget tilfaller midlene SLF sentralt.
 
+## Rutiner
+
+### Styremøter
+SLF Bergen og Omegn har ca 8 styremøter i året. 4 om våren, 4 om høsten.
+
+#### Fastsetting av møtetidspunkt
+For ordinære styremøter vil en på styremøte ha diskutert et tidsrom en skal ha neste møte.
+Etter styremøtet, eller senest en uke før dette tidsrommet, sendes en «Doodle» til medlemmene,
+for å stemme over hvilket tidspunkt som passer best for flest.
+
+#### Innkalling
+Innkalling til styremøte bør sendes ut senest en uke før møtet skal finne sted. Innkallingen
+skal inneholde saksliste. 
+
+#### Saksliste
+Standard saker som stort sett alltid behandles på styremøtet er:
+- Godkjenning av innkalling og saksliste.
+- Gjennomgang og godkjenning av referat fra forrige styremøte.
+- Siden sist
+- Økonomi
+- Innkommet post
+- Ymse.
+
+#### Årsmøter
+SLF Bergen og Omegn holder typisk årsmøtene på sensommeren eller tidlig høst. I år med Landsmøte 
+i god tid før landsmøtet, slik at referat, årsmelding og arbeidsplan kan sendes til hovedstyret i tide.
+
 ## Vektøy
 
 ### Epostlisten
